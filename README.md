@@ -1,2 +1,2 @@
-# time-series-analysis
-Time Series Analysis using Auto-Regressive and Moving Average models. 
+# time-series-analysis (R)
+Time Series Analysis using Auto-Regressive and Moving Average models. Using R Studio.
